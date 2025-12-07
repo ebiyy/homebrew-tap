@@ -1,6 +1,6 @@
 cask "traylingo" do
-  version "0.1.3"
-  sha256 "3e7ebc1c7653c6d758016718f949c0bf2a8057ad590712f5ee06b62b34ae4bdb"
+  version "0.1.4"
+  sha256 "651e3cd774117638e1dd885992ee8993a18e7e485fa39e1ced3de25c4f69ee22"
 
   url "https://github.com/ebiyy/traylingo/releases/download/v#{version}/TrayLingo_#{version}_aarch64.dmg"
   name "TrayLingo"
